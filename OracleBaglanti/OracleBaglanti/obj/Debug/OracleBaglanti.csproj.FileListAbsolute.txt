@@ -1,0 +1,10 @@
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\bin\Debug\OracleBaglanti.exe.config
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\bin\Debug\OracleBaglanti.exe
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\bin\Debug\OracleBaglanti.pdb
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\bin\Debug\Oracle.ManagedDataAccess.dll
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\obj\Debug\OracleBaglanti.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\obj\Debug\OracleBaglanti.oraclefrm.resources
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\obj\Debug\OracleBaglanti.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\obj\Debug\OracleBaglanti.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\obj\Debug\OracleBaglanti.exe
+d:\belgeler\visual studio 2015\Projects\OracleBaglanti\OracleBaglanti\obj\Debug\OracleBaglanti.pdb
